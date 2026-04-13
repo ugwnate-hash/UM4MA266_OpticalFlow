@@ -1,0 +1,20 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Environnements virtuels (si tu en utilises un)
+venv/
+env/
+.env
+
+# Dossiers de données et résultats (TROP LOURDS POUR GITHUB)
+data/
+results/
+results_TVL1/
+latex_images_export/
+
+# Fichiers vidéos et images locaux
+*.mp4
+*.avi
+*.png
+*.jpg
